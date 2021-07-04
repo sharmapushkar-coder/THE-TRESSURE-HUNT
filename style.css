@@ -1,0 +1,9 @@
+html, body {
+  background-image: url('https://database.youngchamp.repl.co/img.jpg');
+  color: aquamarine;
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
